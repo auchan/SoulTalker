@@ -1,0 +1,22 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- A 'parent' preference, which enables/disables child preferences (below)
+         when checked/unchecked. -->
+    <EditTextPreference
+        android:key="others_author"
+        android:title="@string/pref_title_author"
+        android:editable="false"
+        android:autoLink="all"
+        android:dialogMessage="@string/author"
+        />
+
+    <EditTextPreference
+        android:key="others_get_source"
+        android:title="@string/pref_title_get_source"
+        android:editable="false"
+        android:autoLink="all"
+        android:dialogMessage="@string/get_source"
+        />
+
+
+</PreferenceScreen>

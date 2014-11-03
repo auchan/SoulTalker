@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">慕情机器人</string>
+    <string name="hint">点击输入内容</string>
+    <string name="send">发送</string>
+    <string name="welcome">欢迎回来~</string>
+    <string name="noword"></string>
+    <string name="pending">[发送中...]</string>
+    <string name="sendFailure">[发送失败]</string>
+    <string name="versionCode">1.2</string>
+    <string name="versionName">1.2</string>
+    <string name="action_settings">设置</string>
+    <string name="action_exit">退出</string>
+    <string name="author">Name: auchan\nEmail: au.bupt@gmail.com\nCopyright 2014 auchan\n
+\tThis program and  it\'s source files are licensed under a GNU GENERAL PUBLIC LICENSE.
+    </string>
+    <string name="get_source">
+        https://auchan.github.com/SoulTalker
+    </string>
+</resources>

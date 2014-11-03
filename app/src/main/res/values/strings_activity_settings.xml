@@ -1,0 +1,36 @@
+<resources>
+    <string name="title_activity_settings">设置</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_header_main_background_key">main_background_key</string>
+    <string name="pref_header_user_background_key">user_background_key</string>
+    <string name="pref_header_robot_background_key">robot_background_key</string>
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_background">背景设置</string>
+
+    <string name="pref_title_main_background">主界面背景图片</string>
+    <string-array name="pref_background_pictures">
+        <item>默认背景1</item>
+        <item>默认背景2</item>
+        <item>默认背景3</item>
+        <item>默认背景4</item>
+        </string-array>
+
+    <string name="pref_title_robot_background">机器人聊天框背景颜色</string>
+    <string name="pref_title_user_background">用户聊天框背景颜色</string>
+    <string-array name="pref_background_colors">
+        <item>白色</item>
+        <item>黄色</item>
+        <item>蓝色</item>
+        <item>灰色</item>
+        <item>绿色</item>
+    </string-array>
+
+    <string name="pref_title_author">作者 &amp; 版权声明</string>
+    <string name="pref_header_others">其他</string>
+    <string name="pref_title_get_source">获取源代码</string>
+</resources>
